@@ -1,6 +1,6 @@
 # based on intro to statistical learning with applications in R
 # Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
-
+# http://www-bcf.usc.edu/~gareth/ISL/
 
 install.packages("ISLR")
 install.packages("MASS")
@@ -205,7 +205,7 @@ LoadLibraries
 LoadLibraries()
 
 
-# Chapter 4 Lab: Logistic Regression, LDA, QDA, and KNN
+# Chapter 4 Lab: Logistic Regression, LDA, QDA, and KNN -------------------
 
 # The Stock Market Data
 
